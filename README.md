@@ -9,7 +9,7 @@ This project is inspired by the classic Simon game — follow the pattern and se
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game](https://yourusername.github.io/simon-says-game/)  
+👉 [Click here to play the game](https://Srishtidh33.github.io/simon-says-game/) 
 *(Make sure to enable GitHub Pages)*
 
 ---
