@@ -1,5 +1,3 @@
-# simon-says-game
-A browser-based memory game built with HTML, CSS, and JavaScript.
 # Simon Says Game 🎮
 
 A simple browser-based memory game built using HTML, CSS, and JavaScript.  
@@ -9,8 +7,7 @@ This project is inspired by the classic Simon game — follow the pattern and se
 
 ## 🔗 Live Demo
 
-👉 [Click here to play the game](https://Srishtidh33.github.io/simon-says-game/) 
-*(Make sure to enable GitHub Pages)*
+👉 [Click here to play the game](https://Srishtidh33.github.io/simon-says-game/)
 
 ---
 
@@ -45,4 +42,16 @@ This project is inspired by the classic Simon game — follow the pattern and se
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/simon-says-game.git
+   git clone https://github.com/Srishtidh33/simon-says-game.git
+
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE)
+
+---
+
+## 🙌 Acknowledgements
+
+- Inspired by the original [Simon Game](https://en.wikipedia.org/wiki/Simon_(game))
+
